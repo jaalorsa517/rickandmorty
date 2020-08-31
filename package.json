@@ -1,0 +1,25 @@
+{
+  "name": "cientifico",
+  "version": "1.0.0",
+  "description": "SPA de rick and morty",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "spa",
+    "rick",
+    "and",
+    "morty"
+  ],
+  "author": "Jaime Ortiz",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.11.4",
+    "babel-loader": "^8.1.0",
+    "html-webpack-plugin": "^4.4.1",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
